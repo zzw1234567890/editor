@@ -1,0 +1,14 @@
+spring:
+  #数据源配置
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/amazing-web?characterEncoding=UTF-8&useSSL=true
+    username: root
+    password: tq5201314
+
+#自定义配置
+repositoryDirectory: /home/www/amazing-web/repository/
+developmentDirectory: dev
+separator: /
+configDirectory: .config/
+configSuffix: .json

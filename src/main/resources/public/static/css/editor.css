@@ -1,0 +1,69 @@
+.editor .fileber{
+	width:100%;
+	height:40px;
+	margin-top:-40px;
+	display:flex;
+	overflow:hidden;
+	overflow-x:auto;
+}
+
+.editor .fileber::-webkit-scrollbar-track {
+	-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius:10px;
+	background-color:#F5F5F5;
+}
+.editor .fileber::-webkit-scrollbar {
+	height:5px;
+}
+.editor .fileber::-webkit-scrollbar-thumb {
+	border-radius:10px;
+	-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);
+	background-color:#555;
+}
+.editor .fileber::-webkit-scrollbar-corner{
+	display:none;
+}
+
+.editor .fileber .filelist{
+	display: inherit;
+}
+.editor .fileber .filelist .file{
+	float: left;
+	min-width:180px;
+	height:100%;
+	margin:0;
+	padding: 0 40px;
+    box-sizing: border-box;
+	background:#666;
+}
+.editor .fileber .filelist .file:nth-of-type(n+2){
+	border-left:1px solid #333;
+}
+.editor .fileber .filelist .file img{
+	width:20px;
+	height:20px;
+	padding:10px;
+}
+.editor .fileber .filelist .active{
+	background:#333;
+}
+.editor .fileber .filelist .file img:nth-child(1){
+	float:left;
+	margin-left:-40px;
+}
+.editor .fileber .filelist .file img:nth-child(3){
+	float:right;
+	margin-right:-40px;
+}
+.editor .fileber .filelist .file span{
+	width:100%;
+	height:40px;
+	line-height:40px;
+	display:inline-block;
+	font-size:14px;
+	color:#ccc;
+}
+.editor > #editor{
+	width:100%;
+	height:100%;
+}

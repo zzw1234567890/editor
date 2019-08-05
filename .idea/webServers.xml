@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="91ce3fa8-2415-4bf5-8b5b-ca93bc9aa050" name="resources" url="http://119.23.206.106">
+        <fileTransfer host="119.23.206.106" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="27fe24f9-44db-4a94-b1aa-6a3171be3360" name="jar" url="http://119.23.206.106">
+        <fileTransfer host="119.23.206.106" port="22" rootFolder="/home/www/amazing-web" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="10afcf69-cf93-4deb-822a-dabac91cfc3f" name="code" url="http://119.23.206.106">
+        <fileTransfer host="119.23.206.106" port="22" rootFolder="/home/www/amazing-web/editor/service" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

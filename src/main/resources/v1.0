@@ -1,0 +1,48 @@
+路由说明
+
+v 1.0
+
+-登录页面：/login
+-登录提交页面：/login/submit
+-注册页面：/register
+-注册提交页面：/register/submit
+
+-首页：/index
+
+控制台页面：/console      暂时不做
+
+-网站管理页面：/website
+-创建网站页面：/website/create
+-创建网站提交：/website/create/submit                      post
+网站详情页面：/website/details/${id}                       get
+删除网站提交：/website/del/${id}                           get
+修改网站基本信息提交：/website/update/base                 post
+修改网站数据库信息提交：/website/update/database           post
+添加合作者提交：/website/partner/add/${id}                 get
+同意加入合作：/website/partner/add/agree                   get
+
+域名管理页面：/domain
+注册页面：/domain/register
+购买页面：/domain/pay
+扫码回调：/domain/pay/submit                               post
+Ajax轮询：/domain/pay/result                               get
+域名修改提交：/domain/update                               post
+域名删除提交：/domain/del/${id}                            get
+
+--开发中心页面：/editor
+--获取所有文件列表：/editor/file/getFileList                     get
+--获取文件内容：/editor/file/getFileContent?path=$               get
+--新建文件：/editor/file/create?path=$                           get
+--删除文件：/editor/file/del?path=$                              get
+--修改文件：/editor/file/update?path=$&content=$                 post
+-文件重命名、移动：/editor/file/rename?oldPath=$&newPath=$      get
+-复制文件：/editor/file/copy?fromPath=$&toPath=$                get
+-切换编辑文件：/editor/file/switchFile?oldPath=$&newPath=$      get
+-获取配置：/editor/config/getConfig                             get
+
+-网站预览：/editor/project/preview?path=$                   get
+
+文件状态：
+    0 关闭
+    1 打开
+    2 其他人编辑

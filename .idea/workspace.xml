@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97262324-3335-4f87-ab57-e60b398e9d8b" name="Default Changelist" comment="v1.0">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/GrepConsole.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7cfb8c35-30d7-4042-8306-d290888295d5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7cfb8c35-30d7-4042-8306-d290888295d5/storage_v2/_src_/schema/dedecms.RzX5Ww.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/7cfb8c35-30d7-4042-8306-d290888295d5/storage_v2/_src_/schema/test.kkQ2AA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/9eda3e53-7954-4cb7-87d4-36e5746a908c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/AmazingWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/config/intercepors/IndexIntercepor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ChartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/LogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ProjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ShowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/dao/LogDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/dao/MessageDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/dao/WebsiteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/dao/WebsiteTypeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/ConfigEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/Log/PathLogEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/LogEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/MessageEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/WebsiteEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/chart/GetHistoryMessageEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/file/SwitchFileEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/ChartSocketEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/InitSocketEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/JoinSocketEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/user/PublicUserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/exception/MyControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/CodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/ConfigUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/DaoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/FilesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/FinalUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/HintUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/LogUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/HttpSessionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/WebSocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/css/contextmenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/css/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/css/folderber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/css/grids.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/css/hint.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/css/menuBer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-beautify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-elastic_tabstops_lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-emmet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-error_marker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-keybinding_menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-language_tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-linking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-modelist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-rtl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-searchbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-settings_menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-spellcheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-split.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-static_highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-statusbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-textarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-themelist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/ext-whitespace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/keybinding-emacs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/keybinding-sublime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/keybinding-vim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-abap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-abc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-actionscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-ada.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-apache_conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-apex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-applescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-asciidoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-asl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-assembly_x86.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-autohotkey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-batchfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-bro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-c9search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-c_cpp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-cirru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-clojure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-cobol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-coffee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-coldfusion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-csharp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-csound_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-csound_orchestra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-csound_score.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-csp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-curly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-django.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-dockerfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-dot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-drools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-edifact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-eiffel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-ejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-elixir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-elm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-erlang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-forth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-fortran.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-fsharp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-fsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-ftl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-gcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-gherkin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-gitignore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-gobstones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-golang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-graphqlschema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-groovy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-haml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-handlebars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-haskell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-haskell_cabal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-haxe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-hjson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-html_elixir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-html_ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-ini.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-io.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-jack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-jade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-jsoniq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-jsp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-jssm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-jsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-julia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-kotlin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-latex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-less.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-liquid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-lisp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-livescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-logiql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-logtalk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-lsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-lua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-luapage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-lucene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-makefile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-matlab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-maze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-mel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-mixal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-mushcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-mysql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-nix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-nsis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-objectivec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-ocaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-pascal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-perl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-perl6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-pgsql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-php_laravel_blade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-pig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-plain_text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-powershell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-praat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-prolog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-properties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-protobuf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-puppet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-python.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-r.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-razor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-rdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-red.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-redshift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-rhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-rst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-rust.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-sass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-scad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-scala.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-scheme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-scss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-sh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-sjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-smarty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-snippets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-soy_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-space.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-sparql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-sql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-sqlserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-stylus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-svg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-swift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-tcl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-terraform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-tex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-textile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-toml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-tsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-turtle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-twig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-typescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-vala.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-vbscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-velocity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-verilog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-vhdl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-visualforce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-wollok.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-xml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-xquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/mode-yaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/abap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/abc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/actionscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/ada.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/apache_conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/apex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/applescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/asciidoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/asl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/assembly_x86.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/autohotkey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/batchfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/bro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/c9search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/c_cpp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/cirru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/clojure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/cobol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/coffee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/coldfusion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/csharp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/csound_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/csound_orchestra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/csound_score.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/csp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/curly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/django.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/dockerfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/dot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/drools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/edifact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/eiffel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/ejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/elixir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/elm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/erlang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/forth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/fortran.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/fsharp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/fsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/ftl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/gcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/gherkin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/gitignore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/gobstones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/golang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/graphqlschema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/groovy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/haml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/handlebars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/haskell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/haskell_cabal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/haxe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/hjson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/html_elixir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/html_ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/ini.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/io.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/jack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/jade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/jsoniq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/jsp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/jssm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/jsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/julia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/kotlin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/latex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/less.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/liquid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/lisp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/livescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/logiql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/logtalk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/lsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/lua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/luapage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/lucene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/makefile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/matlab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/maze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/mel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/mixal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/mushcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/mysql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/nix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/nsis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/objectivec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/ocaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/pascal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/perl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/perl6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/pgsql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/php_laravel_blade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/pig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/plain_text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/powershell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/praat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/prolog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/properties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/protobuf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/puppet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/python.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/r.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/razor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/rdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/red.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/redshift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/rhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/rst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/rust.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/sass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/scad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/scala.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/scheme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/scss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/sh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/sjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/smarty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/snippets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/soy_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/space.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/sparql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/sql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/sqlserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/stylus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/svg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/swift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/tcl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/terraform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/tex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/textile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/toml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/tsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/turtle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/twig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/typescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/vala.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/vbscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/velocity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/verilog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/vhdl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/visualforce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/wollok.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/xml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/xquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/snippets/yaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-ambiance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-chaos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-chrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-clouds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-clouds_midnight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-cobalt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-crimson_editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-dawn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-dracula.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-dreamweaver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-eclipse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-github.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-gob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-gruvbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-idle_fingers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-iplastic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-katzenmilch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-kr_theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-kuroir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-merbivore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-merbivore_soft.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-mono_industrial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-monokai.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-pastel_on_dark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-solarized_dark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-solarized_light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-sqlserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-terminal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-textmate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-tomorrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-tomorrow_night.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-tomorrow_night_blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-tomorrow_night_bright.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-tomorrow_night_eighties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-twilight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-vibrant_ink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/theme-xcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/worker-coffee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/worker-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/worker-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/worker-javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/worker-json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/worker-lua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/worker-php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/worker-xml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/ace/worker-xquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/folder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/hint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/jq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/keybroad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/js/websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/CSS.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/HTM.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/HTML.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/ICO.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/JPEG.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/JPG.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/JS.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/end.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/static/src/open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/v1.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/v1.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/amazing/editor/AmazingWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/amazing/editor/controller/ChartControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/amazing/editor/controller/ConfigControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/amazing/editor/controller/FileControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/amazing/editor/controller/LogControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/AmazingWebApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/config/intercepors/IndexIntercepor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/controller/ChartController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/controller/ConfigController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/controller/FileController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/controller/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/controller/LogController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/controller/ProjectController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/controller/ShowController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/dao/LogDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/dao/MessageDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/dao/WebsiteDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/dao/WebsiteTypeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/BaseEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/ConfigEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/Log/PathLogEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/LogEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/MessageEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/UserEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/WebsiteEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/chart/GetHistoryMessageEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/file/SwitchFileEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/socket/ChartSocketEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/socket/InitSocketEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/socket/JoinSocketEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/entity/user/PublicUserEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/exception/MyControllerAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/utils/CodeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/utils/ConfigUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/utils/DaoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/utils/FilesUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/utils/FinalUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/utils/HintUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/utils/LogUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/websocket/HttpSessionConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/websocket/WebSocketConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/amazing/editor/websocket/WebSocketServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/css/contextmenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/css/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/css/folderber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/css/grids.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/css/hint.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/css/menuBer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-beautify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-elastic_tabstops_lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-emmet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-error_marker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-keybinding_menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-language_tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-linking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-modelist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-rtl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-searchbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-settings_menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-spellcheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-split.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-static_highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-statusbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-textarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-themelist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/ext-whitespace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/keybinding-emacs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/keybinding-sublime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/keybinding-vim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-abap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-abc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-actionscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-ada.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-apache_conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-apex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-applescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-asciidoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-asl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-assembly_x86.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-autohotkey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-batchfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-bro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-c9search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-c_cpp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-cirru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-clojure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-cobol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-coffee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-coldfusion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-csharp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-csound_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-csound_orchestra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-csound_score.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-csp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-curly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-django.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-dockerfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-dot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-drools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-edifact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-eiffel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-ejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-elixir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-elm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-erlang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-forth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-fortran.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-fsharp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-fsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-ftl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-gcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-gherkin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-gitignore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-gobstones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-golang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-graphqlschema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-groovy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-haml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-handlebars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-haskell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-haskell_cabal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-haxe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-hjson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-html_elixir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-html_ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-ini.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-io.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-jack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-jade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-jsoniq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-jsp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-jssm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-jsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-julia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-kotlin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-latex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-less.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-liquid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-lisp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-livescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-logiql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-logtalk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-lsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-lua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-luapage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-lucene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-makefile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-matlab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-maze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-mel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-mixal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-mushcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-mysql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-nix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-nsis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-objectivec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-ocaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-pascal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-perl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-perl6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-pgsql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-php_laravel_blade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-pig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-plain_text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-powershell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-praat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-prolog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-properties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-protobuf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-puppet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-python.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-r.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-razor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-rdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-red.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-redshift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-rhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-rst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-rust.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-sass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-scad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-scala.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-scheme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-scss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-sh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-sjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-smarty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-snippets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-soy_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-space.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-sparql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-sql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-sqlserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-stylus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-svg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-swift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-tcl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-terraform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-tex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-textile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-toml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-tsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-turtle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-twig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-typescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-vala.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-vbscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-velocity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-verilog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-vhdl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-visualforce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-wollok.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-xml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-xquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/mode-yaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/abap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/abc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/actionscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/ada.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/apache_conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/apex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/applescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/asciidoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/asl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/assembly_x86.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/autohotkey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/batchfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/bro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/c9search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/c_cpp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/cirru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/clojure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/cobol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/coffee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/coldfusion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/csharp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/csound_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/csound_orchestra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/csound_score.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/csp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/curly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/diff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/django.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/dockerfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/dot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/drools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/edifact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/eiffel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/ejs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/elixir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/elm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/erlang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/forth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/fortran.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/fsharp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/fsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/ftl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/gcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/gherkin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/gitignore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/glsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/gobstones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/golang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/graphqlschema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/groovy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/haml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/handlebars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/haskell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/haskell_cabal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/haxe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/hjson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/html_elixir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/html_ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/ini.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/io.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/jack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/jade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/jsoniq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/jsp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/jssm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/jsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/julia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/kotlin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/latex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/less.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/liquid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/lisp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/livescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/logiql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/logtalk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/lsl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/lua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/luapage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/lucene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/makefile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/markdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/matlab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/maze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/mel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/mixal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/mushcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/mysql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/nix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/nsis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/objectivec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/ocaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/pascal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/perl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/perl6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/pgsql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/php_laravel_blade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/pig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/plain_text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/powershell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/praat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/prolog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/properties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/protobuf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/puppet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/python.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/r.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/razor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/rdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/red.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/redshift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/rhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/rst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/ruby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/rust.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/sass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/scad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/scala.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/scheme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/scss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/sh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/sjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/smarty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/snippets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/soy_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/space.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/sparql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/sql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/sqlserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/stylus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/svg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/swift.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/tcl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/terraform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/tex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/textile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/toml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/tsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/turtle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/twig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/typescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/vala.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/vbscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/velocity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/verilog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/vhdl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/visualforce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/wollok.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/xml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/xquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/snippets/yaml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-ambiance.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-chaos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-chrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-clouds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-clouds_midnight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-cobalt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-crimson_editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-dawn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-dracula.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-dreamweaver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-eclipse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-github.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-gob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-gruvbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-idle_fingers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-iplastic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-katzenmilch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-kr_theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-kuroir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-merbivore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-merbivore_soft.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-mono_industrial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-monokai.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-pastel_on_dark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-solarized_dark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-solarized_light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-sqlserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-terminal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-textmate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-tomorrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-tomorrow_night.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-tomorrow_night_blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-tomorrow_night_bright.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-tomorrow_night_eighties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-twilight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-vibrant_ink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/theme-xcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/worker-coffee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/worker-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/worker-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/worker-javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/worker-json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/worker-lua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/worker-php.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/worker-xml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/ace/worker-xquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/folder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/hint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/jq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/keybroad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/js/websocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/CSS.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/HTM.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/HTML.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/ICO.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/JPEG.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/JPG.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/JS.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/end.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/static/src/open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/v1.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/v1.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/editor-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/editor-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/amazing/editor/AmazingWebApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/amazing/editor/controller/ChartControllerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/amazing/editor/controller/ConfigControllerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/amazing/editor/controller/FileControllerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/amazing/editor/controller/LogControllerTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="amazing-web@119.23.206.106" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="amazing-web@119.23.206.106" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="amazing-web@119.23.206.106" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="amazing-web: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/FileController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/WebSocketServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/config/intercepors/IndexIntercepor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getAllEditorFiles</find>
+      <find>svg</find>
+      <find>HTML.svg</find>
+      <find>static</find>
+      <find>open</find>
+      <find>open.svg</find>
+      <find>static/editor/</find>
+      <find>onlineCount</find>
+      <find>nlineCount</find>
+      <find>addOnlineCount</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/user/PublicUser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/amazing/editor/controller/LogControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/user/PublicUserEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/Log/GetHistoryLogEntity.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7cfb8c35-30d7-4042-8306-d290888295d5/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/GlobalVariableUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/GVUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/amazing/editor/controller/ConfigControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/DaoUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/dao/LogDao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/amazing/editor/controller/FileControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/LogEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/CodeUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/CharSocketEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ShowController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ConfigController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/ConfigUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/ChartSocketEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ChartController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/test.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/config/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/config/RequestListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/WebSocketFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/SessionUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/HttpSessionConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/RequestListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/LogUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/LogController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/Log/HistoryLogEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/file/SwitchFileEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/WebSocketUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/FilesUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/Log/PathLogEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/file/EditorFileEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-test.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/v1.1" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/InitSocketEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/BaseSocketEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/JoinSocketEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/FinalUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/HintUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/FileController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/WebSocketServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amazing/editor/config/intercepors/IndexIntercepor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\Java\maven3.2.2\repository" />
+        <option name="userSettingsFile" value="D:\Program Files\Java\maven3.2.2\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="amazing-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="amazing-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="528" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564973128147" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/amazing/amazingweb/controller" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.amazing.editor.controller" />
+      <recent name="com.amazing.amazingweb.controller.editor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\www\amazing-web\src\main\resources\public" />
+      <recent name="E:\www\amazing-web\src\main\resources\public\static" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\www\editor\src\main\resources\public" />
+      <recent name="E:\www\amazing-web\src\main\resources\static\editor\js" />
+      <recent name="E:\www\amazing-web\src\main\resources\static\editor" />
+      <recent name="E:\www\amazing-web\src\main\resources\templates\editor" />
+      <recent name="E:\www\amazing-web\src\main\resources\public\editor\js" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 15 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 15 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="editor" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AmazingWebApplication">
+    <configuration name="ChartControllerTest.sendMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="editor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amazing.editor.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amazing.editor.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.amazing.editor.controller.ChartControllerTest" />
+      <option name="METHOD_NAME" value="sendMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigControllerTest.getConfig" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="editor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amazing.editor.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amazing.editor.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.amazing.editor.controller.ConfigControllerTest" />
+      <option name="METHOD_NAME" value="getConfig" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileControllerTest.createPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="editor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amazing.editor.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amazing.editor.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.amazing.editor.controller.FileControllerTest" />
+      <option name="METHOD_NAME" value="createPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogControllerTest.getHistoryLog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="editor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amazing.editor.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amazing.editor.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.amazing.editor.controller.LogControllerTest" />
+      <option name="METHOD_NAME" value="getHistoryLog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazingWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="editor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.amazing.editor.AmazingWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AmazingWebApplication" />
+      <item itemvalue="JUnit.ConfigControllerTest.getConfig" />
+      <item itemvalue="JUnit.LogControllerTest.getHistoryLog" />
+      <item itemvalue="JUnit.FileControllerTest.createPath" />
+      <item itemvalue="JUnit.ChartControllerTest.sendMessage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChartControllerTest.sendMessage" />
+        <item itemvalue="JUnit.ConfigControllerTest.getConfig" />
+        <item itemvalue="JUnit.LogControllerTest.getHistoryLog" />
+        <item itemvalue="JUnit.FileControllerTest.createPath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97262324-3335-4f87-ab57-e60b398e9d8b" name="Default Changelist" comment="" />
+      <created>1558848188542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558848188542</updated>
+      <workItem from="1558848190413" duration="10586000" />
+      <workItem from="1558858906808" duration="5000" />
+      <workItem from="1558858995700" duration="1038000" />
+      <workItem from="1558860069094" duration="12802000" />
+      <workItem from="1559128124765" duration="279000" />
+      <workItem from="1559128611329" duration="15000" />
+      <workItem from="1559128665792" duration="39000" />
+      <workItem from="1559131410406" duration="21000" />
+      <workItem from="1559131557861" duration="16000" />
+      <workItem from="1559131631459" duration="8000" />
+      <workItem from="1559132763335" duration="23000" />
+      <workItem from="1559133053494" duration="48000" />
+      <workItem from="1559133913669" duration="17000" />
+      <workItem from="1559437249033" duration="31000" />
+      <workItem from="1559437314275" duration="5000" />
+      <workItem from="1559437655613" duration="48000" />
+      <workItem from="1559452168131" duration="39000" />
+      <workItem from="1559453654013" duration="28000" />
+      <workItem from="1559801716055" duration="3302000" />
+      <workItem from="1560063198313" duration="92000" />
+      <workItem from="1560063332520" duration="16383000" />
+      <workItem from="1560163062529" duration="2839000" />
+      <workItem from="1560168826979" duration="3172000" />
+      <workItem from="1560173147354" duration="3266000" />
+      <workItem from="1560212914272" duration="10679000" />
+      <workItem from="1560335842978" duration="6573000" />
+      <workItem from="1560488069164" duration="2860000" />
+      <workItem from="1560490975466" duration="499000" />
+      <workItem from="1560491527497" duration="3035000" />
+      <workItem from="1560599405873" duration="30000" />
+      <workItem from="1560651348339" duration="11708000" />
+      <workItem from="1560669481388" duration="8231000" />
+      <workItem from="1560823295028" duration="1712000" />
+      <workItem from="1560825058499" duration="6157000" />
+      <workItem from="1560834167770" duration="16513000" />
+      <workItem from="1560909825735" duration="559000" />
+      <workItem from="1560987586576" duration="17372000" />
+      <workItem from="1561027913351" duration="7252000" />
+      <workItem from="1561036235267" duration="37000" />
+      <workItem from="1561115620475" duration="10906000" />
+      <workItem from="1561268363820" duration="11810000" />
+      <workItem from="1561280429280" duration="3333000" />
+      <workItem from="1561782288129" duration="66000" />
+      <workItem from="1562658699311" duration="13152000" />
+      <workItem from="1562675254189" duration="2896000" />
+      <workItem from="1562846289740" duration="1461000" />
+      <workItem from="1563095038745" duration="1171000" />
+      <workItem from="1563435363987" duration="305000" />
+      <workItem from="1563436923607" duration="30000" />
+      <workItem from="1563437062641" duration="25000" />
+      <workItem from="1563437603417" duration="16000" />
+      <workItem from="1563440081138" duration="31000" />
+      <workItem from="1563441126261" duration="24000" />
+      <workItem from="1563441339349" duration="32000" />
+      <workItem from="1563521847505" duration="40000" />
+      <workItem from="1563522129586" duration="17000" />
+      <workItem from="1563522437193" duration="55000" />
+      <workItem from="1563523101884" duration="46000" />
+      <workItem from="1564970490808" duration="2578000" />
+      <workItem from="1564973303397" duration="531000" />
+    </task>
+    <task id="LOCAL-00001" summary="v1.0">
+      <created>1560169212170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560169212170</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v1.0">
+      <created>1564972193478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564972193478</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FileControllerTest_createPath - 2019.06.20 at 09h 48m 50s.xml">
+      <configuration name="FileControllerTest.createPath" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileControllerTest_createPath - 2019.06.20 at 09h 51m 01s.xml">
+      <configuration name="FileControllerTest.createPath" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileControllerTest_createPath - 2019.06.20 at 09h 59m 04s.xml">
+      <configuration name="FileControllerTest.createPath" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileControllerTest_createPath - 2019.06.20 at 10h 12m 18s.xml">
+      <configuration name="FileControllerTest.createPath" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileControllerTest_createPath - 2019.06.20 at 10h 13m 51s.xml">
+      <configuration name="FileControllerTest.createPath" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigControllerTest_getConfig - 2019.06.20 at 10h 28m 20s.xml">
+      <configuration name="ConfigControllerTest.getConfig" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogControllerTest_getHistoryLog - 2019.06.20 at 10h 44m 37s.xml">
+      <configuration name="LogControllerTest.getHistoryLog" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigControllerTest_getConfig - 2019.06.20 at 16h 52m 05s.xml">
+      <configuration name="ConfigControllerTest.getConfig" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigControllerTest_getConfig - 2019.06.20 at 16h 56m 09s.xml">
+      <configuration name="ConfigControllerTest.getConfig" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChartControllerTest_sendMessage - 2019.06.20 at 20h 30m 13s.xml">
+      <configuration name="ChartControllerTest.sendMessage" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="195844000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.22547974" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5010846" side_tool="true" weight="0.1716418" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29392624" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49946696" weight="0.31127983" />
+      <window_info active="true" anchor="bottom" id="TODO" order="7" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.31127983" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="14" weight="0.28308025" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.329718" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="16" />
+      <window_info anchor="bottom" id="Tail" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Api Debugger" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.15458423" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.1663113" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="RestServices" order="11" weight="0.20895523" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.0" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/static/js/hint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/static/js/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/MessageEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/amazing/editor/controller/ChartControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ShowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ProjectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/DaoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/config/WebSocketConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/config/RequestListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/WebSocketFilter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/SessionUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/RequestListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/HttpSessionConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ChartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="35" column="57" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/LogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/LogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/WebSocketUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/ChartSocketEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/Log/PathLogEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/ConfigEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/static/js/websocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9eda3e53-7954-4cb7-87d4-36e5746a908c/schema/amazing-web/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9eda3e53-7954-4cb7-87d4-36e5746a908c/schema/amazing-web/table/website">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9eda3e53-7954-4cb7-87d4-36e5746a908c/schema/amazing-web/table/partnership">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/InitSocketEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/FilesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="130" column="47" selection-start-line="130" selection-start-column="47" selection-end-line="130" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/socket/JoinSocketEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/file/EditorFileEntity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/file/SwitchFileEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/entity/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/ConfigUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/CodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/ConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/HintUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/utils/FinalUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/IllegalStateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/v1.1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="43" column="88" selection-start-line="43" selection-start-column="88" selection-end-line="43" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/dao/LogDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/AmazingWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/websocket/WebSocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="62" column="72" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazing/editor/config/intercepors/IndexIntercepor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>editor</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

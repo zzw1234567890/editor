@@ -1,0 +1,120 @@
+Amazing-web
+V1.1
+1、资源管理器模块
+    1）复制
+    2）移动
+    3）文件状态同步
+    4）文件锁
+2、配置模块
+    1）从后台获取配置
+    2）使用快捷键（Ctrl+p）显示配置（屏幕中间窗口）
+    3）修改配置
+    4）刷新生效
+3、聊天模块
+    1）右下角窗口（显示头像、用户名、消息内容）
+    2）接收消息
+    3）发送消息
+    4）获取历史信息
+4、日志模块
+    1）右下角窗口（显示事件、操作者、操作时间）
+    2）需要广播的操作都需要写日志
+    3）获取历史日志
+
+
+资源管理器模块
+    文件状态：
+   		0 关闭
+    	1 打开
+    	2 其他人编辑
+	接口：
+	-文件重命名、移动：
+		Url: /editor/file/rename
+		Method: get
+		Param: oldPath(原路径)、newPath(目标路径)
+		return: {"result":true}
+    -复制文件：
+        Url: /editor/file/copy
+        Method: get
+        Param: fromPath(源路径)、toPath(目标路径)
+        return: {"result":true}
+    -获取正在编辑的文件
+        Url: /editor/file/getEditorFiles
+        Method: get
+        Param: 无
+        return: [{"userId": 1,"path": "/index.html"},{"userId": 2,"path": "/index.php"}]
+
+配置模块
+	配置项：
+	{
+    	"autoSave" : true, (是否自动保存)
+    	"autoSaveTime" : 1, (自动保存时间间隔，单位：秒)
+    }
+	接口：
+	-获取配置：
+	    Url: /editor/config/getConfig
+	    Method: get
+	    Param: 无
+	    return: {"result":true,"content":{"autoSaveTime":2,"autoSave":true}}
+	-修改配置：
+		Url: /editor/config/setConfig
+		Method: post
+		Param: 配置项
+		return: {"result":true}
+
+聊天模块
+    消息属性：
+        发送者id
+        发送者头像
+        消息内容
+    消息状态：
+        0 删除
+        1 未读
+        2 已读
+    是否为隔时段消息：
+        0 否
+        1 是
+    接口：
+    -发送消息：
+        Url: /editor/chat/sendMessage
+        Method: post
+        Param: content(消息内容)
+        return: {"result":true}
+    -接收消息：
+        来自发送消息的广播
+        webSocket: {"operator":{"id":1,"account":"admin","headLink":"default.png"},"cmd":"sendMessage","content":"message"}
+    -获取历史消息：
+        Url: /editor/chat/getHistoryMessage
+        Method: get
+        Param: offset(从第几条数据开始),limit(获取多少条数据)
+        return: [
+                    {"userId":1,"account":"admin","headLink":"default.png","messageId":10,"content":"message","isSelf":true},
+                    {"userId":2,"account":"root","headLink":"default.png","messageId":11,"content":"message","isSelf":false}
+                ]
+日志模块
+    日志属性：
+        id: 日志编号
+        operator: 操作者信息
+        operating: 操作编码
+        filePath: 文件路径
+        message: 日志信息
+        isSelf: 是否是自己操作
+    operating：
+        1: 新建文件
+        2: 删除文件
+        3: 更新文件
+        4: 移动
+        5: 复制
+    接口：
+    -获取历史日志：
+        Url: /editor/log/getHistoryLog
+        Method: get
+        Param: offset(从第几条数据开始),limit(获取多少条数据)
+        return: [
+                    {"cmd":"log","id":1,"operator":{"id":1,"account":"admin","headLink":"default.png"},"operating":"1","Path":"/css/index.css","message":"admin新建文件/css/index.css"},
+                    {"operator":{"id":1,"account":"admin","headLink":"default.png"},"operating":"2","filePath":"/css/index.css","message":"admin删除文件/css/index.css"}
+                ]
+    日志工具类：
+    -write方法：
+        Param: operating,path
+        return null
+        webSocket: {"operator":{"id":1,"account":"admin","headLink":"default.png"},"operating":"1","path":"/css/index.css","message":"新建 : /css/index.css"}

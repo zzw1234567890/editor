@@ -1,0 +1,129 @@
+.folderber{
+	float:left;
+	position:relative;
+	width:240px;
+	height:100%;
+    padding-top:32px;
+    box-sizing: border-box;
+	margin-left:-240px;
+	background:#333;
+}
+.folderber .title{
+	height:32px;
+	line-height:32px;
+	display:block;
+	margin-top:-32px;
+	padding-left:20px;
+	font-size:16px;
+	font-weight:bold;
+	color:#ccc;
+	background:#222;
+}
+.folderber .folderlist{
+	height:100%;
+	overflow:auto;
+}
+
+.folderber .folderlist::-webkit-scrollbar-track {
+	-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius:10px;
+	background-color:#F5F5F5;
+}
+.folderber .folderlist::-webkit-scrollbar {
+	width:10px;
+	height:10px;
+}
+.folderber .folderlist::-webkit-scrollbar-thumb {
+	border-radius:10px;
+	-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,.3);
+	background-color:#555;
+}
+.folderber .folderlist::-webkit-scrollbar-corner{
+	display:none;
+}
+
+.folderber .folderlist > ul{
+	display:grid;
+	margin-left:20px;
+}
+.folderber .folderlist > ul li .list{
+	height:26px;
+	padding-right:20px;
+}
+.folderber .folderlist > ul li .list:hover{
+	background:#666;
+}
+.folderber .folderlist > ul li .list > span{
+	display:block;
+	height:26px;
+	color:#ccc;
+	font-size:13px;
+	line-height:26px;
+	margin-left:50px;
+}
+.folderber .folderlist > ul li .list > img{
+	float:left;
+	width:16px;
+	height:16px;
+	margin:5px 5px;
+}
+.folderber .folderlist > ul li .list > div{
+	float:left;
+	border-radius:6px;
+	background:transparent;
+	width:10px;
+	height:10px;
+	margin:8px 6px;
+}
+.folderber .folderlist > ul li .list .open{
+	background:#6f6;
+}
+.folderber .folderlist > ul li .list .used{
+	background:#f66;
+}
+.folderber .folderlist > ul li .list > .action{
+	background:#f96;
+}
+.folderber .folderlist > ul li ul{
+	/*display:none;*/
+	-webkit-padding-start:27px;
+	border-left:1px dashed #fff3;
+}
+.folderber .rename{
+	display:none;
+	width:100%;
+	height:80px;
+	bottom:0;
+	position:absolute;
+	background:#444;
+	border-radius:3px;
+}
+.folderber .rename label{
+	display:block;
+	height:100%;
+	padding:0 14px;
+}
+.folderber .rename label span{
+	display:block;
+	height:30px;
+	padding:3px 0;
+	color:#fff;
+	line-height:30px;
+}
+.folderber .rename label img{
+	width:30px;
+	height:30px;
+	position:absolute;
+	top:3px;
+	right:6px;
+}
+.folderber .rename label #rename{
+	width: 100%; 
+	border: none;
+	height: 30px;
+	outline: none;
+	margin-left:-5px;
+	border-radius: 3px;
+	padding: 0 5px;
+	font-size:18px;
+}

@@ -1,0 +1,24 @@
+spring:
+  #数据源配置
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/amazing-web?characterEncoding=UTF-8&useSSL=true
+    username: root
+    password: tq5201314
+
+logging:
+  level:
+    com:
+      amazing:
+        editor:
+          dao: debug
+
+#mybatis:
+#  mapper-locations: classpath:mapper/*.xml
+
+#自定义配置
+repositoryDirectory: D:\phpStudy\PHPTutorial\WWW\amazing-web\
+developmentDirectory: dev
+separator: \
+configDirectory: config\
+configSuffix: .json

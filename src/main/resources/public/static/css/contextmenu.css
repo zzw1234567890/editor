@@ -1,0 +1,24 @@
+.editorBox > .contextmenu{
+	position:absolute;
+	display:none;
+	width:200px;
+	min-height:30px;
+	top:0;
+	left:0;
+	background:#fff;
+	box-shadow: 4px 4px 4px 0px #3336;
+	border-radius:2px;
+	z-index:5;
+}
+.editorBox > .contextmenu > span{
+	padding:0 20px;
+	width:160px;
+	height:30px;
+	display:inline-block;
+	line-height:30px;
+	font-size:14px;
+}
+.editorBox > .contextmenu > span:hover{
+	background:#ccc;
+	border-radius:2px;
+}

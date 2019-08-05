@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head WebSocketUrl="localhost:8080">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<link rel="stylesheet" href="static/css/index.css">
+	<link rel="stylesheet" href="static/css/menuBer.css">
+	<link rel="stylesheet" href="static/css/folderber.css">
+	<link rel="stylesheet" href="static/css/editor.css">
+	<link rel="stylesheet" href="static/css/contextmenu.css">
+	<link rel="stylesheet" href="static/css/hint.css">
+
+	<script src="static/js/ace/ace.js" type="text/javascript" charset="utf-8"></script>
+	<script src="static/js/ace/ext-language_tools.js" type="text/javascript" charset="utf-8"></script>
+	<script src="static/js/jq.js"></script>
+
+	<!-- 模块加载 -->
+	<script src="static/js/data.js"></script>
+	<script src="static/js/hint.js"></script>
+	<script src="static/js/keybroad.js"></script>
+	<script src="static/js/menu.js"></script>
+	<script src="static/js/folder.js"></script>
+	<script src="static/js/editor.js"></script>
+	<script>
+        var domain = $("head").attr("WebSocketUrl");
+        var Ws = new WebSocket("ws://" + domain + "/WebSocket");
+	</script>
+	<script src="static/js/websocket.js"></script>
+
+	<!-- 配置文件 -->
+	<script src="static/js/config.js"></script>
+	<!-- 入口文件 -->
+	<script src="static/js/index.js"></script>
+	<title>工作台</title>
+</head>
+<body>
+<div class="editorBox">
+	<div class="menuber noselect">
+		<div class="dropdown"></div>
+	</div>
+	<div class="bodyerBox">
+		<div class="folderber noselect">
+			<span class="title">资源管理器 (demo)</span>
+			<div class="folderlist">
+				<ul>
+				</ul>
+			</div>
+			<div class="rename">
+				<label for="rename">
+					<span>重命名</span>
+					<input type="text" id="rename" autocomplete="false" spellcheck="false">
+				</label>
+			</div>
+		</div>
+		<div class="editor">
+			<div class="fileber noselect">
+				<div class="filelist"></div>
+			</div>
+			<div id="editor"></div>
+		</div>
+	</div>
+	<div class="contextmenu"></div>
+	<div class="hintBox">
+		<div class="fileOperate">
+			<div class="title">移动 /123/123</div>
+			<div class="path">
+				<input id="movePath" type="text">
+			</div>
+			<div class="folderBox">
+
+			</div>
+			<div class="buttonBox">
+				<button>返回</button>
+				<button>确定</button>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
